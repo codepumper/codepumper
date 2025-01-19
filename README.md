@@ -1,4 +1,4 @@
-👨‍💻 Full-Stack Problem Solver | 🚀 Cloud Enthusiast | 💡 FinTech Enthusiast
+🏋️ Software Engineer | 💡 Problem Solver | 📊 FinTech & Machine Learning Enthusiast
 
 Hey, I’m a software engineer fluent in JavaScript, Go, TypeScript, Python and a bunch of other languages I’ve picked up along the way. Whether it’s building microservices, wrangling cloud infrastructure, or dabbling in financial machine learning, I’m all about turning big ideas into elegant solutions.
 
