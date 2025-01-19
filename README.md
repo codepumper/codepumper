@@ -2,8 +2,10 @@
 
 Hey, I’m a software engineer fluent in JavaScript, Go, TypeScript, Python and a bunch of other languages I’ve picked up along the way. Whether it’s building microservices, wrangling cloud infrastructure, or dabbling in financial machine learning, I’m all about turning big ideas into elegant solutions.
 
-☁️ Cloud Infrastructure – because scaling isn’t just for weights at the gym.
 🛠️ Languages Galore – if it compiles (or interprets), I’ll make it work.
+
+☁️ Cloud Infrastructure – because scaling isn’t just for weights at the gym.
+
 📊 FinTech & Machine Learning – blending numbers with algorithms for fun and profit.
 
 When I’m not optimizing code, I’m optimizing my workouts. Let’s build something that’s as strong and reliable as your deadlift. 💪🚀
