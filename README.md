@@ -1,14 +1,12 @@
-🏋️ Software Engineer | 💡 Problem Solver | 📊 FinTech & Machine Learning Enthusiast
+🏋️ Software Engineer | 📊 Statistician | 💡 FinTech Enthusiast
 
-Hey, I’m a software engineer fluent in JavaScript, Go, TypeScript, Python and a bunch of other languages I’ve picked up along the way. Whether it’s building microservices, wrangling cloud infrastructure, or dabbling in financial machine learning, I’m all about turning big ideas into elegant solutions.
+I’m a software engineer skilled in JavaScript, TypeScript, Go, and Python. With a foundation in economics and statistics, I focus on creating scalable cloud-native applications—whether for the browser or mobile—managing cloud infrastructure, and leveraging machine learning in FinTech.
 
-🛠️ Languages Galore – if it compiles (or interprets), I’ll make it work.
+🛠️ Fluent in multiple programming languages and tools.
+☁️ Skilled in scalable cloud solutions.
+📊 Enthusiastic about FinTech and machine learning.
 
-☁️ Cloud Infrastructure – because scaling isn’t just for weights at the gym.
-
-📊 FinTech & Machine Learning – blending numbers with algorithms for fun and profit.
-
-When I’m not optimizing code, I’m optimizing my workouts. Let’s build something that’s as strong and reliable as your deadlift. 💪🚀
+When I’m not coding, I’m at the gym. Let’s build something strong and impactful! 💪🚀
 
 ## Frontend/Fullstack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -24,6 +22,9 @@ When I’m not optimizing code, I’m optimizing my workouts. Let’s build some
 
 ## ML
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ## Cloud
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
